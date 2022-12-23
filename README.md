@@ -29,7 +29,7 @@ Just like most social media apps or cloud-based solutions, Photorage will allow 
 
 *ERD <img src="ERD.png">
 
-*Feed <img src="Screen Shot 2022-12-23 at 7.09.13 AM">
+*Feed <img src="Feed.png">
 
 *Components <img src="component.png">
 
