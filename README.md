@@ -15,6 +15,12 @@ Just like most social media apps or cloud-based solutions, Photorage will allow 
 *Front-End: ReactJS
 *Back-End:Django & Python
 
+## Wireframes:
+*Profile <img src="Profile.png">
+*ERD <img src="ERD.png">
+*Feed <img src="Screen Shot 2022-12-23 at 7.09.13 AM">
+*Components <img src="component.png">
+
 
 ## Trelloboard:
 https://trello.com/b/eFdv086f/photorage-2022
