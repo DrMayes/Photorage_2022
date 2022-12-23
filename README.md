@@ -36,3 +36,6 @@ Just like most social media apps or cloud-based solutions, Photorage will allow 
 
 ## Trelloboard:
 https://trello.com/b/eFdv086f/photorage-2022
+
+## Social:
+https://www.linkedin.com/in/tierra-mayes-54553a123/
